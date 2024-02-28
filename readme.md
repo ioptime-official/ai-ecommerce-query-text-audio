@@ -1,4 +1,5 @@
-# AWS Lex Conversational FAQ Demo
+# AWS Lex and Polly Conversational Chatbot:E-COMMERCEQUERY 
+
 
 Demonstration of LLM integration into a lex bot and Polly using Lambda codehooks and a Sagemaker endpoint.
 # Project Work Flow 
