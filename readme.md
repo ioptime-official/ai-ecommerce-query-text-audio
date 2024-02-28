@@ -76,7 +76,7 @@ Note, the first time the embedding lambda and the runtime lambda are called the 
 
 
 
-```
+
 
 
 ### Configurations
@@ -84,8 +84,10 @@ Note, the first time the embedding lambda and the runtime lambda are called the 
 🚨 **Remember to shut down your endpoint if you're done using it!** 🚨
 
 We have provided a script to deactivate an endpoint and endpoint configuration with whatever name is in the endpoint creation script. To run:
+
 ```
 python3 shut_down_endpoint.py
+```
 
 
 #### Custom model and instance type configuration:
