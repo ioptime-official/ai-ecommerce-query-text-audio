@@ -1,8 +1,8 @@
-# AWS Lex and Polly Conversational Chatbot:E-COMMERCEQUERY 
+## AWS Lex and Polly Conversational Chatbot:E-COMMERCEQUERY 
 
 
 Demonstration of LLM integration into a lex bot and Polly using Lambda codehooks and a Sagemaker endpoint.
-# Project Work Flow 
+## Project Work Flow 
 - Data Source & Embedding: Firstly data converted to embeddings and stored in database.
 - Store in Database: The processed query is stored in a Pinecone database.
 - User Query: The user makes a query through text or voice.
