@@ -1,7 +1,0 @@
-transformers==4.25.1
-langchain==0.0.196 
-llama-index==0.6.20
-openai==0.27.8
-sentence-transformers
-pypdf
-typing_extensions
